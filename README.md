@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦅 PEGASUS RCE
+<img width="1024" height="1024" alt="WhatsApp Image 2026-04-17 at 00 10 23" src="https://github.com/user-attachments/assets/8b9a40d2-58ed-4161-9acf-28c189c8dd66" />
 
 ### *WordPress Backup Backup Plugin - Remote Code Execution Exploit*
 
