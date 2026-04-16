@@ -71,6 +71,14 @@ Halaman pembayaran sederhana untuk menerima donasi atau akses premium via **Bitc
 </p>
 
 
+
+
+
+https://github.com/user-attachments/assets/1441100c-3e39-45b6-8d36-19d69ac994a9
+
+
+
+
 ---
 
 ## 📦 Prerequisites
